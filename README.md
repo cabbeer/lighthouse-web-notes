@@ -2,4 +2,4 @@
 
 ## Summary
 
-This repository contains all of the notes taken by Kabir Sewani for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Kabir Sewani](https://github.com/cabbeer) for the amazing [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
